@@ -1,9 +1,10 @@
 #Greenfoot properties
-#Sun Jun 11 14:05:46 EDT 2017
+#Sun Jun 11 14:14:58 EDT 2017
 mainWindow.width=850
 class.MyWorld.superclass=greenfoot.World
 project.charset=UTF-8
 version=3.0.0
+class.Button.superclass=greenfoot.Actor
 class.UI.superclass=greenfoot.Actor
 world.lastInstantiated=MyWorld
 mainWindow.y=40

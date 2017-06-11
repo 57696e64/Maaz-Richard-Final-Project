@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Performs\ some\ actions\ when\ it\ is\ clicked.\r\n\ @author\ Richard\ Guan\r\n\ @version\ 6/11/2017\r\n
+comment1.params=name
+comment1.target=Button(java.lang.String)
+comment1.text=\r\n\ Gets\ the\ button's\ name.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever.\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment..\r\n
+comment3.params=
+comment3.target=void\ buttonOff()
+comment3.text=\r\n\ When\ the\ button\ is\ off,\ text\ color\ is\ CYAN\ and\ back\ ground\ color\ is\ BLACK.\r\n\ Uses\ its\ name\ as\ its\ picture.\r\n
+comment4.params=
+comment4.target=void\ buttonOn()
+comment4.text=\r\n\ When\ the\ button\ is\ on,\ do\ different\ actions\ accourding\ to\ its\ name.\r\n\ This\ is\ an\ empty\ method.\r\n
+comment5.params=
+comment5.target=void\ buttonToggle()
+comment5.text=\r\n\ This\ method\ countrols\ the\ button's\ state\ (ON\ or\ OFF).\r\n
+numComments=6
