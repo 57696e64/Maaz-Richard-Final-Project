@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UI
+comment0.text=\r\n\ UI\ element\!\r\n\ You\ can\ create\ an\ UI\ by\ insert\ its\ name\ and\ call\ its\ cooresbonding\ functions\r\n\ No\ functions\ just\ yet\r\n\ @author\ Richard\ Guan\r\n\ @version\ 6/7/2017\r\n
+comment1.params=nameIn
+comment1.target=UI(java.lang.String)
+comment1.text=\r\n\ Creates\ an\ UI\ with\ an\ inserted\ name\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ UI\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ setImage()
+comment3.text=\r\n\ Sets\ the\ image\ of\ the\ UI\ element\r\n
+comment4.params=
+comment4.target=void\ userFriendly()
+comment4.text=\r\n\ Makes\ sure\ that\ the\ UI\ element\ does\ not\ go\ out\ of\ the\ screen\r\n\ Note\ that\ the\ code\ is\ this\ method\ are\ examples\r\n
+comment5.params=
+comment5.target=void\ reset()
+comment5.text=\r\n\ Resets\ the\ UI\ element\ when\ the\ game\ is\ ready\ to\ reset\r\n
+numComments=6
