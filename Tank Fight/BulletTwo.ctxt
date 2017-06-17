@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=BulletTwo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BulletTwo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=angle\ power
+comment1.target=BulletTwo(int,\ int)
+comment1.text=\r\n\ Bullet\ Constructor\:\ calculates\ and\ saves\ the\ initial\ x\ and\ y\ speeds\ and\ maximum\ height\ of\ the\ trajectory\r\n\r\n\ @param\ angle\:\ the\ initial\ direction\ of\ travel\ for\ the\ ball\r\n\ @param\ power\:\ the\ initial\ speed\ of\ the\ ball\ in\ the\ direction\ of\ travel\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Method\ addedToWorld\:\ saves\ the\ initial\ location\ of\ the\ ball\r\n\r\n\ @param\ w\:\ unused\ parameter\ required\ by\ the\ method\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Method\ act\:\ calculates\ and\ sets\ new\ location\ of\ the\ ball\ and\ removes\ it\ upon\ reaching\ the\ right\ end\ of\ the\ world.\r\n\ The\ calculation\ here\ is\ done\ by\ finding\ the\ current\ vertical\ distance\ from\ the\ apex\ of\ the\ trajectory.\ \ The\ difference\ between\r\n\ the\ vertical\ distance\ to\ the\ apex\ from\ its\ starting\ location\ (maxY)\ minus\ the\ current\ vertical\ distance\ from\ the\ apex\ is\r\n\ equal\ to\ the\ vertical\ distance\ from\ its\ starting\ location.\r\n
+numComments=4

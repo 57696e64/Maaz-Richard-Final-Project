@@ -50,8 +50,14 @@ public class Button extends Actor
         //The button is on
         buttonState = true;
         
-        //...
-
+        MyWorld myWorld = (MyWorld) getWorld();
+        
+        if (buttonText.equals("Tall Building")) {
+            myWorld.tallBuilding();
+        }
+        else if (buttonText.equals("Temple")) {
+            myWorld.temple();
+        }
         //Removes all the buttons from the world no matter which one is clicked
         getWorld().removeObjects(getWorld().getObjects(Button.class));
     }
