@@ -53,5 +53,8 @@ public class BulletOne extends Bullet
         int newY = initY - distDif; // calculates the new y-coordinate value 
         setLocation(newX, newY);
       //  if (getX() == getWorld().getWidth() - 1) getWorld().removeObject(this);
+      
+        zoneDivide(1);
+        groundHit(1);
     }  
 }
